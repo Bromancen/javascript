@@ -1,0 +1,2 @@
+const inputyear="1995";
+alert(number(inputyear),inputyear);
